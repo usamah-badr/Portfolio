@@ -1,31 +1,27 @@
-# Portfolio
-Data Analyst Portfolio showcasing projects in Python. Includes real-world datasets, data cleaning, visualization, and insights.
+# Usamah's Portfolio
 
+Welcome to my portfolio as an aspiring data analyst.
+<br>This repository showcases projects in Python which includes real-world datasets, data cleaning, visualization, and insights.
 
-# 📊 Data Analyst Portfolio
-
-Welcome to my Data Analyst Portfolio!  
-This repository highlights projects that demonstrate my skills in *Python, SQL, Power BI, and Excel*, focusing on data cleaning, analysis, and visualization.
-
-Work in progress
+🛠️ Work in progress (PowerBI and more Python projects to be added soon)
 
 ---
-## 📊 Data Science Projects
+## 📊 Python Data Analysis Projects
 
 ### 🚗 Malaysia Car Price Analysis
-Explore the car registrations in Malaysia and see the trends based on car brands, hybrid VS electric, colours etc. 
+Explore and analyze car registrations in Malaysia, uncovering insightful trends across various dimensions such as car brands, fuel types (hybrid vs. electric), colors, and other key factors. This project highlights patterns in consumer preferences, market shifts, and emerging automotive trends, providing a comprehensive overview of the Malaysian car market.
 
-🔗 [View the notebook](https://github.com/usamah-badr/Portfolio/blob/main/malaysia-cars.ipynb)
+🔗 [View the project](https://github.com/usamah-badr/Portfolio/blob/main/malaysia-cars.ipynb)
 
 ### 🎬 Netflix Data Insights
-Dive into a detailed examination of Netflix's content library, analyzing trends in genres, ratings, and release years. This project demonstrates the application of data wrangling, visualization, and storytelling to extract meaningful insights from streaming data.
+Dive into an examination of Netflix's content library, analyzing trends in genres, ratings, and release years. This project demonstrates the application of data wrangling, visualization, and storytelling to extract meaningful insights from streaming data.
 
-🔗 [View the notebook](https://github.com/usamah-badr/Portfolio/blob/main/Netflix.ipynb)
+🔗 [View the project](https://github.com/usamah-badr/Portfolio/blob/main/Netflix.ipynb)
 
 ---
-## 🛠️ Tools & Technologies
-- *Languages:* Python (Pandas, Matplotlib, Numpy, Seaborn)
-- *Visualization:* Power BI, Excel  
-- *Other Skills:* Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Building  
+## 💻 Tools & Technologies
+
+- *Languages:* Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly)
+- *Skills:* Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Building  
 
 ---
