@@ -19,7 +19,7 @@ This portfolio is designed to:
 ---
 
 ## 🛠️ Tools & Technologies
-- *Languages:* Python (Pandas, Matplotlib)
+- *Languages:* Python (Pandas, Matplotlib, Numpy, Seaborn)
 - *Visualization:* Power BI, Excel  
 - *Other Skills:* Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Building  
 
