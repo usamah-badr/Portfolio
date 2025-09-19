@@ -7,6 +7,8 @@ Data Analyst Portfolio showcasing projects in Python. Includes real-world datase
 Welcome to my Data Analyst Portfolio!  
 This repository highlights projects that demonstrate my skills in *Python, SQL, Power BI, and Excel*, focusing on data cleaning, analysis, and visualization.
 
+Work in progress
+
 ---
 ## 📊 Data Science Projects
 
