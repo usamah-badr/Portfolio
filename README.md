@@ -18,11 +18,6 @@ This portfolio is designed to:
 
 ---
 
-## 🗂️ Projects
-*Investigating Netflix Movies Project* – Exploratory Data Analysis (EDA) of Netflix movies, focusing on trends in release years, durations, and genres, with a special look at films from the 1990s. 
-
----
-
 ## 🛠️ Tools & Technologies
 - *Languages:* Python (Pandas, Matplotlib)
 - *Visualization:* Power BI, Excel  
