@@ -17,7 +17,19 @@ This portfolio is designed to:
 - Demonstrate proficiency in tools commonly used in the data industry.  
 
 ---
+## 📊 Data Science Projects
 
+### 🚗 Malaysia Car Price Analysis
+Explore the car registrations in Malaysia and see the trends based on car brands, hybrid VS electric, colours etc. 
+
+🔗 [View the notebook](https://github.com/usamah-badr/Portfolio/blob/main/malaysia-cars.ipynb)
+
+### 🎬 Netflix Data Insights
+Dive into a detailed examination of Netflix's content library, analyzing trends in genres, ratings, and release years. This project demonstrates the application of data wrangling, visualization, and storytelling to extract meaningful insights from streaming data.
+
+🔗 [View the notebook](https://github.com/usamah-badr/Portfolio/blob/main/Netflix.ipynb)
+
+---
 ## 🛠️ Tools & Technologies
 - *Languages:* Python (Pandas, Matplotlib, Numpy, Seaborn)
 - *Visualization:* Power BI, Excel  
